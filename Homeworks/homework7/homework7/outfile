@@ -1,0 +1,17 @@
+Homework7.c
+homework7
+homework7.dSYM
+large.txt
+largeCopy.txt
+outfile
+small.txt
+smaller.txt
+total 263312
+-rw-r--r--@ 1 arjuna  staff      9823 May 12 09:49 Homework7.c
+-rwxr-xr-x  1 arjuna  staff     13884 May 12 09:50 homework7
+drwxr-xr-x  3 arjuna  staff        96 May 12 09:40 homework7.dSYM
+-rw-r--r--@ 1 arjuna  staff  67108864 Mar 27 18:19 large.txt
+-rw-r--r--@ 1 arjuna  staff  67108864 May 12 09:57 largeCopy.txt
+-rw-r--r--  1 arjuna  staff        91 May 12 09:57 outfile
+-rw-r--r--  1 arjuna  staff        12 Mar 29 14:10 small.txt
+-rw-r--r--  1 arjuna  staff        12 May 10 15:04 smaller.txt
